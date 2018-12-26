@@ -12,8 +12,8 @@ Convert a list of Reddit RSS links to OPML format. The generated OPML can be imp
 
 Example input:
 
-  https://www.reddit.com/r/Bitcoin.rss
-  https://www.reddit.com/r/DIY.rss
+> https://www.reddit.com/r/Bitcoin.rss
+> https://www.reddit.com/r/DIY.rss
 
 Corresponding output:
 
@@ -29,4 +29,4 @@ Corresponding output:
     </outline>
   </body>
 </opml>
-```xml
+```
