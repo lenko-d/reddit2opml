@@ -8,7 +8,7 @@ reddit2opml is a script that converts a list of Reddit RSS links to OPML format.
 ``` shell
    ./reddit2opml.pl reddit_rss_subscriptions_list.txt > reddit_subscriptions.opml
 ```
-* Import the list into Liferea
+* Import the generated OPML RSS list reddit_subscriptions.opml into Liferea
 
 Example input file reddit_rss_subscriptions_list.txt:
 
