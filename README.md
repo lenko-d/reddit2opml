@@ -1,5 +1,5 @@
 # reddit2opml
-Convert a list of Reddit RSS links to OPML format. The generated OPML can be imported into your favorite RSS reader (https://en.wikipedia.org/wiki/Liferea)
+reddit2opml is a script that converts a list of Reddit RSS links to OPML format. The generated OPML can be imported into your favorite RSS reader (https://en.wikipedia.org/wiki/Liferea)
 
 # Example workflow
 * Export a list of Reddit subscriptions as RSS from this page: https://www.reddit.com/subreddits/mine
