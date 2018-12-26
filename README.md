@@ -1,5 +1,5 @@
 # reddit2opml
-Convert a list of Reddit RSS links to OPML format. The generated OPML can be imported into your favorite RSS reader(https://en.wikipedia.org/wiki/Liferea)
+Convert a list of Reddit RSS links to OPML format. The generated OPML can be imported into your favorite RSS reader (https://en.wikipedia.org/wiki/Liferea)
 
 # Example workflow
 * Export a list of Reddit subscriptions as RSS from this page: https://www.reddit.com/subreddits/mine
@@ -12,9 +12,10 @@ Convert a list of Reddit RSS links to OPML format. The generated OPML can be imp
 
 Example input file reddit_rss_subscriptions_list.txt:
 
-> https://www.reddit.com/r/Bitcoin.rss
+https://www.reddit.com/r/Bitcoin.rss
 
-> https://www.reddit.com/r/DIY.rss
+https://www.reddit.com/r/DIY.rss
+
 
 Corresponding output OPML:
 
