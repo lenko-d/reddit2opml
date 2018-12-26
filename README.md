@@ -6,16 +6,17 @@ Convert a list of Reddit RSS links to OPML format. The generated OPML can be imp
 * Save the list of urls into a file: reddit_rss_subscriptions_list.txt
 * Convert the urls - run:
 ``` shell
-   ./reddit2opml.pl reddit_rss_subscriptions_list.txt > reddit_subscription.opml
+   ./reddit2opml.pl reddit_rss_subscriptions_list.txt > reddit_subscriptions.opml
 ```
 * Import the list into Liferea
 
-Example input:
+Example input file reddit_rss_subscriptions_list.txt:
 
 > https://www.reddit.com/r/Bitcoin.rss
+
 > https://www.reddit.com/r/DIY.rss
 
-Corresponding output:
+Corresponding output OPML:
 
 ```xml
 <opml version="2.0">
